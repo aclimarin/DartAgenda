@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DarAgenda.Utils\DarAgenda.Utils.csproj" />
+    <ProjectReference Include="..\DartAgenda.Business\DartAgenda.Business.csproj" />
+    <ProjectReference Include="..\DartAgenda.Infra\DartAgenda.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

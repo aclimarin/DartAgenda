@@ -1,0 +1,11 @@
+C:\anacarol\source\DartAgenda\DartAgenda.Business\bin\Debug\net5.0\DartAgenda.Business.deps.json
+C:\anacarol\source\DartAgenda\DartAgenda.Business\bin\Debug\net5.0\DartAgenda.Business.dll
+C:\anacarol\source\DartAgenda\DartAgenda.Business\bin\Debug\net5.0\ref\DartAgenda.Business.dll
+C:\anacarol\source\DartAgenda\DartAgenda.Business\bin\Debug\net5.0\DartAgenda.Business.pdb
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.AssemblyInfoInputs.cache
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.AssemblyInfo.cs
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.csproj.CoreCompileInputs.cache
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.dll
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\ref\DartAgenda.Business.dll
+C:\anacarol\source\DartAgenda\DartAgenda.Business\obj\Debug\net5.0\DartAgenda.Business.pdb

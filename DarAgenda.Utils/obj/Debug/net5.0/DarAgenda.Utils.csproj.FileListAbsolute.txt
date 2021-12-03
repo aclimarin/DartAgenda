@@ -1,0 +1,12 @@
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\bin\Debug\net5.0\DarAgenda.Utils.deps.json
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\bin\Debug\net5.0\DarAgenda.Utils.dll
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\bin\Debug\net5.0\ref\DarAgenda.Utils.dll
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\bin\Debug\net5.0\DarAgenda.Utils.pdb
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.csprojAssemblyReference.cache
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.AssemblyInfoInputs.cache
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.AssemblyInfo.cs
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.csproj.CoreCompileInputs.cache
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.dll
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\ref\DarAgenda.Utils.dll
+C:\anacarol\source\DartAgenda\DarAgenda.Utils\obj\Debug\net5.0\DarAgenda.Utils.pdb
